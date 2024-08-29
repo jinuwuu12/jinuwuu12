@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to jinuwuu12's github 👋
 
 <!--
 **jinuwuu12/jinuwuu12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
